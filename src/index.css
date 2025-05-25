@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+.playwrite-it-moderna {
+  font-family: "Playwrite IT Moderna", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400; /* or 100, 200, etc. based on your need */
+  font-style: normal;
+}
